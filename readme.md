@@ -34,4 +34,3 @@ Timeが0または図形を描画中に敵から攻撃を受けるとゲームオ
 作成情報を列挙する
  
 * 作成者：lsesmpmido
-* 電子メール：lsesmpmido@gmail.com
