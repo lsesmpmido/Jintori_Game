@@ -27,8 +27,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54675248/139557655-9ace658d-6ad9-45f5-b9ff-33358ff064ff.png" width="320px" >
 </p>
- 
-注意
+
 矩形を重ねて描く、または画面外まで描こうとすると、背景色が黄色になり、矩形を作成することができません。
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54675248/139557494-cdd4925f-536b-4939-81b3-227fd04a7034.png" width="320px" >
