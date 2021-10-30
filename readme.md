@@ -15,6 +15,9 @@
  
 注意
 矩形を重ねて描く、または画面外まで描こうとすると、背景色が黄色になり、矩形を作成することができません。
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54675248/139557104-280688fa-d460-4cd1-96ee-07582f0ae04d.png" width="320px" >
+</p>
 
 <h3 style="color:#ff0000">ゲームのリセット</h3>
 
