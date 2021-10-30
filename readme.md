@@ -8,8 +8,6 @@
 
 # 仕様
 
-起動時の画面は以下の通りです。
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54675248/139556659-8d6d6d36-dd0e-410a-86f3-70683cbb0a84.png" width="320px" >
 </p>
